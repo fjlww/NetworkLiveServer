@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_9161250a522576bf0014a498524f602ddfcf1f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1636b2cf8b156041e219e8296ce52fa718691e78">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48a08cae741e8eb04b9f3418d075b00bd6ff2424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\libs\acra-4.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.4.0_4af824b748f4fdfd07c157767ffb124ea316571a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24f327209e235d9dd8ad3f406f1f7c2b3b7e3b28">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_20d2d9baad6de42c3db4c472726b5a6620a67974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\libs\scprov-jdk15on-1.47.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e2f52dbf7402b12b792282078b9f895512ae5af">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\2\scprov-jdk15on-1.47.0.2_1f0edd47cc9ed4ce40825962060b4ff517ba54e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\libs\scpkix-jdk15on-1.47.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bed9af945c158e1e02dfbdf030179dd18e60d83">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\2\scpkix-jdk15on-1.47.0.2_a5dd86ae1c78c885419eb55d04c090e36b8e810d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\desktop\spydroid-ipcamera-master11\app\libs\sc-light-jdk15on-1.47.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c98671cc97fa0d928be1c7eb5edd3fb95d3234">
+        <dex dex="H:\desktop\spydroid-ipcamera-master11\app\build\intermediates\transforms\dex\debug\folders\1000\2\sc-light-jdk15on-1.47.0.2_a18b9d5f7c9fbc7b4683478c378941e5014f9a95\classes.dex" />
+    </item>
+
+</items>

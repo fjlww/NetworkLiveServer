@@ -1,0 +1,7 @@
+#Mon Feb 06 15:48:10 CST 2017
+base.0=H\:\\desktop\\spydroid-ipcamera-master11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_20d2d9baad6de42c3db4c472726b5a6620a67974
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\desktop\\spydroid-ipcamera-master11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48a08cae741e8eb04b9f3418d075b00bd6ff2424\\classes.dex
+base.1=H\:\\desktop\\spydroid-ipcamera-master11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48a08cae741e8eb04b9f3418d075b00bd6ff2424
+file.0=H\:\\desktop\\spydroid-ipcamera-master11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_20d2d9baad6de42c3db4c472726b5a6620a67974\\classes.dex
